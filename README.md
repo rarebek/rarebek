@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rarebek
-- 👀 I’m interested in any programming languages)
-- 🌱 I’m currently learning back-end
+- 👀 Studying at Najot ta`lim. Fergana
+- 🌱 I’m currently learning C programming language
 - 📫 nomonovn2@gmail.com
 
 <!---
