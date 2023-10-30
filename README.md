@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rarebek
+- 👋 Hi, I’m Nodirbek No`monov
 - 👀 Studying at Najot ta`lim. Fergana
 - 🌱 I’m currently learning Foundation of Programming
 - 📫 nomonovn2@gmail.com
