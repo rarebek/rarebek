@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rarebek
 - 👀 Studying at Najot ta`lim. Fergana
-- 🌱 I’m currently learning C programming language
+- 🌱 I’m currently learning Foundation of Programming
 - 📫 nomonovn2@gmail.com
 
 <!---
