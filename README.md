@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nodirbek No`monov
-- 👀 Studying at Najot ta`lim. Fergana
-- 🌱 I’m currently learning Foundation of Programming
+- 👀 Studying at Najot ta`lim. Tashkent
+- 🌱 I’m currently learning Golang back end...
 - 📫 nomonovn2@gmail.com
 
 <!---
