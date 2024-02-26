@@ -49,3 +49,7 @@
     <img src = "https://skillicons.dev/icons?i=go,python,arch,html,css,git,github,linux,mysql,postgres,postman,vscode" /> <br>
 
 </div>
+
+<div align = "center">
+  <img src = "https://github.com/rarebek/rarebek/blob/999164626348ff58afa29da4bac79e201c1da5cd/github-contribution-grid-snake.svg" />
+</div>
