@@ -16,6 +16,23 @@
 
 <div align = "center">
   <a href = "mailto:nodirbekgolang@gmail.com">
-    <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "_blank />
+    <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "_blank" />
   </a>
+
+  <a href = "https://www.linkedin.com/in/nodirbek-no-monov-87a321286/">
+  <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_blank"/>
+  </a>
+
+  <a href = "https://t.me/raresmth">
+    <img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target = "_blank" />
+  </a>
+
+  <img src = "https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  
+</div>
+
+<div align "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rarebek"/>
+
+  <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rarebek" />
 </div>
