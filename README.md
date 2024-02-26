@@ -31,11 +31,6 @@
   
 </div>
 
-<div align = "center">
-<!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rarebek"/> -->
-
-  <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rarebek" />
-</div>
 
 <hr/>
 
@@ -51,5 +46,14 @@
 </div>
 
 <div align = "center">
+  <h2> 🐍 My Contributions 🐍 </h2>
+  <br>
   <img src = "https://github.com/rarebek/rarebek/blob/999164626348ff58afa29da4bac79e201c1da5cd/github-contribution-grid-snake.svg" />
+</div>
+
+
+<div align = "center">
+<!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rarebek"/> -->
+
+  <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rarebek" />
 </div>
