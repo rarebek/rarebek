@@ -41,7 +41,7 @@
 <div align = "center">
 
   <a href = "https://skillicons.dev">
-    <img src = "https://skillicons.dev/icons?i=go,python,arch,html,css,git,github,linux,mysql,postgres,postman,vscode" /> <br>
+    <img src = "https://skillicons.dev/icons?i=go,python,arch,html,css,git,github,linux,mysql,postgres,postman,vscode,ubuntu" /> <br>
 
 </div>
 
