@@ -31,8 +31,21 @@
   
 </div>
 
-<div align "center">
+<div align = "center">
 <!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rarebek"/> -->
 
   <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rarebek" />
+</div>
+
+<hr/>
+
+<h2 align = "center"> Languages - Frameworks - Tools- Operation Systems </h2>
+
+<br/>
+
+<div align = "center">
+
+  <a href = "https://skillicons.dev">
+    <img src = "https://skillicons.dev/icons?i=go,python,arch,html,css,git,github,linux,mysql,postgres,postman,vscode" /> <br>
+
 </div>
