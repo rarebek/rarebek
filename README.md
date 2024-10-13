@@ -9,9 +9,9 @@
 
 <div align = "center"
   
-  🔭 I’m currently working in a **Golang Backend Developers Company**
+  🔭 I’m currently working on myself
   
-  🌱 I'm currently studying and updating my knowledge in **Golang, Kafka and Docker to be software engineer**
+  🌱 I'm currently studying and updating my knowledge in **Golang, TypeScript and other techs**
 </div>
 
 <div align = "center">
