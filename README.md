@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nodirbek;Golang+Developer;Backend+Engineer" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rarebek&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&column=7" alt="GitHub Trophy" />
-</div>
-
 ## 🚀 About Me
 
 Backend developer passionate about building scalable, high-performance applications. Currently expanding my knowledge in **Rust** while mastering **Golang** and **Node.js**.
