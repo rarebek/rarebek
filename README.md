@@ -23,7 +23,7 @@ func main() {
 		Name:     "Nodirbek No'monov",
 		Title:    "Golang Developer",
 		Location: "Uzbekistan",
-		Stack:    []string{"Go", "Node.js", "Rust", "PostgreSQL", "MongoDB", "Redis", "RabbitMQ"},
+		MainLanguages:    []string{"Go", "Rust"},
 	}
 	
 	fmt.Println("Welcome to my GitHub!")
