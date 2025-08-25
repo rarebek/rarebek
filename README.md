@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-Developer passionate about building scalable, high-performance applications. Currently expanding my knowledge in **Rust** while mastering **Golang** and **Node.js**.
+Developer passionate about building applications. Currently expanding my knowledge in **Rust** while mastering **Golang**.
 
 ```go
 package main
